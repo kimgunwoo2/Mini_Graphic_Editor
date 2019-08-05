@@ -1,0 +1,8 @@
+﻿  Uic'ing qt5gui01.ui...
+C:\Users\dd\documents\visual studio 2015\Projects\Qt5GUI01\Qt5GUI01\qt5gui01.ui : warning : The name 'groupBox' (QGroupBox) is already in use, defaulting to 'groupBox1'.
+  moc_qt5gui01.cpp
+  main.cpp
+  qt5gui01.cpp
+  코드를 생성하고 있습니다...
+  Qt5GUI01.vcxproj -> C:\Users\dd\documents\visual studio 2015\Projects\Qt5GUI01\x64\Debug\Qt5GUI01.exe
+  Qt5GUI01.vcxproj -> C:\Users\dd\documents\visual studio 2015\Projects\Qt5GUI01\x64\Debug\Qt5GUI01.pdb (Full PDB)
